@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pet Props
+* source:	https://sketchfab.com/3d-models/pet-props-98624c5ba3db4767b7eab3103959142e
+* author:	heathermichno (https://sketchfab.com/heathermichno)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pet Props" (https://sketchfab.com/3d-models/pet-props-98624c5ba3db4767b7eab3103959142e) by heathermichno (https://sketchfab.com/heathermichno) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
